@@ -720,6 +720,7 @@ header {
     }
 
     .stairlift-cutout-computer {
+        display: inline;
         max-width: 40vw;
         min-width: 40vw;
     }
